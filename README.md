@@ -4,7 +4,7 @@ This is for a Coursera course teaching Flask.
 
 ## Step-by-step Documentation
 
-The 60-page [documentation]() goes through each step of the development process of this URL Shortener, from building the "hello, world!" routes to the database models, all the routes, the front end, and more.
+The 60-page [documentation](https://docs.google.com/document/d/1iMPNenLu39PZL8TG857WbTHfHrECxb-311MYYWWxbmQ/edit?usp=sharing) goes through each step of the development process of this URL Shortener, from building the "hello, world!" routes to the database models, all the routes, the front end, and more.
 
 No knowledge is assumed - the documentation is designed for inexperienced developers using the Cloud 9 IDE.
 
